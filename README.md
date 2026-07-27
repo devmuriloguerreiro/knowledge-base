@@ -2,7 +2,7 @@
 
 This repository contains the recommendation knowledge base used by **RecArbo**, a contextual recommendation system designed to support urban arboviruses prevention (Dengue, Zika, Chikungunya) through semantic retrieval.
 
-The knowledge base was developed as part of the PhD research.
+The knowledge base was developed as part of the PhD research of Murilo Guerreiro Arouca.
 
 ---
 
